@@ -11,7 +11,7 @@ Below you will find files with my projects
 ## Student Activity Evidentioning Using Entity Framework Code-First Solution
 [Entity Framework App](https://github.com/arturrrom/Repos/tree/master/CodeFirstBasicStudent/)  
 The problem addressed in this solution pertains to the management of a database in an application that employs the Code-First approach with Entity Framework Core. Specifically, the solution focuses on the scenario where it is desirable to remove the existing database before the application runs.
-Overall, this solution provides a convenient mechanism to ensure a clean slate for the database each time the application is run, facilitating experimentation and learning in a development environment but it can be simple change to ** dynamically adding new records to existing database **
+Overall, this solution provides a convenient mechanism to ensure a clean slate for the database each time the application is run, facilitating experimentation and learning in a development environment but it can be simple change to **dynamically adding new records to existing database**
 
 ## Technical skills gained
 **1. Console Input/Output** The code utilizes Console.WriteLine and Console.ReadLine to interact with the user, prompting them for input and displaying output.  
