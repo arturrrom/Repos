@@ -9,7 +9,7 @@ Below you will find files with my projects
 4. [Polymorphism](https://github.com/arturrrom/Repos/tree/master/PolymorphismAssignmentSubmission)
 
 ## Student Activity Evidentioning Using Entity Framework Code-First Solution
-[Entity Framework App](https://github.com/arturrrom/Repos/tree/master/CodeFirstBasicStudent/)
+[Entity Framework App](https://github.com/arturrrom/Repos/tree/master/CodeFirstBasicStudent/)  
 The problem addressed in this solution pertains to the management of a database in an application that employs the Code-First approach with Entity Framework Core. Specifically, the solution focuses on the scenario where it is desirable to remove the existing database before the application runs.
 Overall, this solution provides a convenient mechanism to ensure a clean slate for the database each time the application is run, facilitating experimentation and learning in a development environment but it can be simple change to ** dynamically adding new records to existing database **
 
@@ -29,7 +29,7 @@ Overall, this solution provides a convenient mechanism to ensure a clean slate f
 **13. Encapsulation** Classes can hide internal details and expose only specific methods and properties, improving code cleanliness and security.  
 **14. Abstraction** Classes and methods enable programmers to create abstractions, simplifying complex systems by focusing on essential aspects.  
 **15. Entity Framework Code-First Approach** This approach is not typically recommended in a production environment, but it can be useful for educational purposes or when prototyping.
-The solution can be implemented in an application that examines how much time students need to perform specific activities. We know in advance how long each activity should last. Students are assigned to activities for which the exact, actual start and end dates are specified.
+The solution can be implemented in an application that examines how much time students need to perform specific activities. We know in advance how long each activity should last. Students are assigned to activities for which the exact, actual start and end dates are specified.  
 
 ## Autorzy
 
