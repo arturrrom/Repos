@@ -20,11 +20,16 @@ A basic Entity Framework Code-First console application that creates a basic Stu
 **7. Polymorphism** While the provided code doesn't explicitly demonstrate polymorphism, the concept could be applied when discussing more advanced scenarios, such as using interfaces or base classes to enable different implementations of methods or behaviors.  
 **8. Inheritance** Although the provided code doesn't directly showcase inheritance, it's a fundamental concept in C# where classes can inherit properties and behaviors from a base class. In a more complex application, inheritance could be used to model relationships between different types of packages or shipping services.  
 **9. Method Overloading** The code doesn't explicitly demonstrate method overloading, but it's a key feature in C# where multiple methods with the same name can exist in the same class, but with different parameter lists. This allows for flexibility in method invocation based on the provided arguments.  
+**10. Classess** Classes are blueprints that define properties and behaviors of objects.  
+**11. Methods** Methods are functions defined within classes that specify actions that can be performed on objects of that class.  
+**12. Modularity** Classes and methods allow for the modularization of code, making it easier to manage and maintain.  
+**13. Encapsulation** Classes can hide internal details and expose only specific methods and properties, improving code cleanliness and security.  
+**14. Abstraction** Classes and methods enable programmers to create abstractions, simplifying complex systems by focusing on essential aspects.  
 
 ## Autorzy
 
-Lista autorów lub osób odpowiedzialnych za projekt.
+Artur Malkiewicz
 
 ## Licencja
 
-Informacje o licencji projektu.
+Opensource
