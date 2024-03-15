@@ -1,15 +1,12 @@
-# Repos
-
-Opis projektu lub krótki wstęp.
-
 # My Projects
+Below you will find files with my projects
 ## Projects in ASP .NET
 1. [ASP.NET Website](https://github.com/arturrrom/Repos/tree/master/HelloWorldAM)
 ## Simple projects in .NET C#
 1. [Branching](https://github.com/arturrrom/Repos/tree/master/BranchingAssignment/)
 2. [Method Class](https://github.com/arturrrom/Repos/tree/master/MethodClassAssignmentSubmission)
-3.  [Operators](https://github.com/arturrrom/Repos/tree/master/OperatorsAssignmentSubmission)
-4.   Polymorphism](https://github.com/arturrrom/Repos/tree/master/PolymorphismAssignmentSubmission)
+3. [Operators](https://github.com/arturrrom/Repos/tree/master/OperatorsAssignmentSubmission)
+4. [Polymorphism](https://github.com/arturrrom/Repos/tree/master/PolymorphismAssignmentSubmission)
 ## Work with Entity Framework
 A basic Entity Framework Code-First console application that creates a basic Student database and adds one student.
 [Entity Framework App](https://github.com/arturrrom/Repos/tree/master/EntityFramework/)
