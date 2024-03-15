@@ -7,9 +7,13 @@ Below you will find files with my projects
 2. [Method Class](https://github.com/arturrrom/Repos/tree/master/MethodClassAssignmentSubmission)
 3. [Operators](https://github.com/arturrrom/Repos/tree/master/OperatorsAssignmentSubmission)
 4. [Polymorphism](https://github.com/arturrrom/Repos/tree/master/PolymorphismAssignmentSubmission)
-## Work with Entity Framework
-A basic Entity Framework Code-First console application that creates a basic Student database and adds one student.
-[Entity Framework App](https://github.com/arturrrom/Repos/tree/master/EntityFramework/)
+
+##Student Activity Evidentioning Using Entity Framework Code-First Solution
+[Entity Framework App](https://github.com/arturrrom/Repos/tree/master/CodeFirstBasicStudent/)
+The problem addressed in this solution pertains to the management of a database in an application that employs the Code-First approach with Entity Framework Core. Specifically, the solution focuses on the scenario where it is desirable to remove the existing database before the application runs. This approach is not typically recommended in a production environment, but it can be useful for educational purposes or when prototyping.
+The solution can be implemented in an application that examines how much time students need to perform specific activities. We know in advance how long each activity should last. Students are assigned to activities for which the exact, actual start and end dates are specified.
+Overall, this solution provides a convenient mechanism to ensure a clean slate for the database each time the application is run, facilitating experimentation and learning in a development environment but it can be simple change to ** dynamically adding new records to existing database **
+
 ## Technical skills gained
 **1. Console Input/Output** The code utilizes Console.WriteLine and Console.ReadLine to interact with the user, prompting them for input and displaying output.  
 **2. Variables and Data Types** The code declares variables of integer type (int) to store package weight, width, height, and length. It also uses a variable of decimal type to store the shipping quote.  
