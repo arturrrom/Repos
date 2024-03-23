@@ -34,15 +34,15 @@ Additionally, there is an admin view available to site administrators, which dis
 **14. Abstraction** Classes and methods enable programmers to create abstractions, simplifying complex systems by focusing on essential aspects.  
 **15. Entity Framework Code-First Approach** This approach is not typically recommended in a production environment, but it can be useful for educational purposes or when prototyping.
 The solution can be implemented in an application that examines how much time students need to perform specific activities. We know in advance how long each activity should last. Students are assigned to activities for which the exact, actual start and end dates are specified.  
-**16. Entity Framework (EF)**
-- Understanding ORM (Object-Relational Mapping) concepts.
-- Creating and managing database models using EF Code First or Database First approaches.
-- Performing CRUD (Create, Read, Update, Delete) operations using EF.
-**17. ASP.NET MVC**
-- Understanding MVC architectural pattern (Model, View, Controller).
-- Creating and managing controllers to handle user requests.
-- Working with views (Razor syntax) for rendering UI and presenting data to users.
-- Implementing data validation using model annotations and ModelState.
+**16. Entity Framework (EF)**  
+- Understanding ORM (Object-Relational Mapping) concepts.  
+- Creating and managing database models using EF Code First or Database First approaches.  
+- Performing CRUD (Create, Read, Update, Delete) operations using EF.  
+**17. ASP.NET MVC**  
+- Understanding MVC architectural pattern (Model, View, Controller).  
+- Creating and managing controllers to handle user requests.  
+- Working with views (Razor syntax) for rendering UI and presenting data to users.  
+- Implementing data validation using model annotations and ModelState.  
 
 ## Autorzy
 [Artur Malkiewicz](mailto:arturrom007@gmail.com)
