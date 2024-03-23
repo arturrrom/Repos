@@ -13,9 +13,10 @@ Below you will find files with my projects
 The problem addressed in this solution pertains to the management of a database in an application that employs the Code-First approach with Entity Framework Core. Specifically, the solution focuses on the scenario where it is desirable to remove the existing database before the application runs.
 Overall, this solution provides a convenient mechanism to ensure a clean slate for the database each time the application is run, facilitating experimentation and learning in a development environment but it can be simple change to **dynamically adding new records to existing database**
 ## Car Insurance Policy Using ASP.NET MVC Entity Framework
+[Car Insurance App](https://github.com/arturrrom/Repos/tree/master/CarInsurance/)  
 This application is designed to help users manage their car insurance policies. You can create new insurance entries, edit existing ones, and delete them as needed.
 Additionally, there is an admin view available to site administrators, which displays all issued insurance quotes along with user details.
-[Car Insurance App](https://github.com/arturrrom/Repos/tree/master/CarInsurance/)  
+
 
 ## Technical skills gained
 **1. Console Input/Output** The code utilizes Console.WriteLine and Console.ReadLine to interact with the user, prompting them for input and displaying output.  
