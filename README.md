@@ -33,7 +33,9 @@ Additionally, there is an admin view available to site administrators, which dis
 **12. Modularity** Classes and methods allow for the modularization of code, making it easier to manage and maintain.  
 **13. Encapsulation** Classes can hide internal details and expose only specific methods and properties, improving code cleanliness and security.  
 **14. Abstraction** Classes and methods enable programmers to create abstractions, simplifying complex systems by focusing on essential aspects.  
-**15. Entity Framework Code-First Approach** This approach is not typically recommended in a production environment, but it can be useful for educational purposes or when prototyping.
+
+**15. Entity Framework Code-First Approach**  
+This approach is not typically recommended in a production environment, but it can be useful for educational purposes or when prototyping.
 The solution can be implemented in an application that examines how much time students need to perform specific activities. We know in advance how long each activity should last. Students are assigned to activities for which the exact, actual start and end dates are specified.  
 
 **16. Entity Framework (EF)**  
